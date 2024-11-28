@@ -1,0 +1,87 @@
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\appsettings.Development.json
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\appsettings.json
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.staticwebassets.runtime.json
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.exe
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.deps.json
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.runtimeconfig.json
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\doanwebnang cao.pdb
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.GeneratedMSBuildEditorConfig.editorconfig
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.AssemblyInfoInputs.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.AssemblyInfo.cs
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.csproj.CoreCompileInputs.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.MvcApplicationPartsAssemblyInfo.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.RazorAssemblyInfo.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.RazorAssemblyInfo.cs
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets\msbuild.doanwebnang cao.Microsoft.AspNetCore.StaticWebAssets.props
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets\msbuild.build.doanwebnang cao.props
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.doanwebnang cao.props
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.doanwebnang cao.props
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets.pack.json
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets.build.json
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\staticwebassets.development.json
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\scopedcss\bundle\doanwebnang cao.styles.css
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\scopedcss\projectbundle\doanwebnang cao.bundle.scp.css
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.dll
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\refint\doanwebnang cao.dll
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.pdb
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.genruntimeconfig.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\ref\doanwebnang cao.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Azure.Core.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Azure.Identity.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Humanizer.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.CodeDom.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Memory.Data.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Text.Json.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\doanwebnangcao\doanwebnang cao\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.csproj.AssemblyReference.cache
+D:\doanwebnangcao\doanwebnang cao\obj\Debug\net6.0\doanwebnang cao.csproj.CopyComplete
